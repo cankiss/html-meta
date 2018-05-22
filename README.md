@@ -1,6 +1,7 @@
 # html-meta
 常见meta标签
 
+```html
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -32,3 +33,5 @@
   <!-- windows phone 点击无高光 -->
   <meta name="msapplication-tap-highlight" content="no">
   <!-- 适应移动端end -->
+  
+```
